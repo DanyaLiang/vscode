@@ -1,6 +1,3 @@
-a = 10 
-b = 9
-if(a == b):
-    print('a = b')
-else:
-    print('a is not b')
+print('Hello World!!')
+print('Testing Git and Docker with VS Code!!')
+print("How is it going?")
