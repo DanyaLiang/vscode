@@ -1,5 +1,9 @@
-let a = {
-    b1:12,
-    b2:11
+let a = 10
+let b = 19
+if(a == b){
+    console.log("A is similar to B!")
+
 }
-console.log(a)
+else{
+    console.log("A is not similar to B :( ")
+}
